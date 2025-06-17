@@ -29,4 +29,10 @@ This project is a browser-based Tic Tac Toe (XOX) game developed using JavaScrip
 
 - [p5.js](https://p5js.org/)
 
-![Game Screenshot](images/screenshot.png)
+
+# Game Screenshots
+
+<p align="center">
+  <img src="assets/photo1.png" alt="Screenshot 1" width="300"/>
+  <img src="assets/photo2.png" alt="Screenshot 2" width="300"/>
+</p>
