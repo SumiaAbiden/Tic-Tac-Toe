@@ -33,6 +33,7 @@ This project is a browser-based Tic Tac Toe (XOX) game developed using JavaScrip
 # Game Screenshots
 
 <p align="center">
-  <img src="tic-tac-tao/assets/photo1.png" alt="Screenshot 1" width="300"/>
-  <img src="tic-tac-tao/assets/photo2.png" alt="Screenshot 2" width="300"/>
+  <img src="assets/photo1.png" width="300"/>
+  <img src="assets/photo2.png" width="300"/>
 </p>
+
