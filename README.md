@@ -29,11 +29,3 @@ This project is a browser-based Tic Tac Toe (XOX) game developed using JavaScrip
 
 - [p5.js](https://p5js.org/)
 
-
-# Game Screenshots
-
-<p align="center">
-  <img src="assets/photo1.png" width="300"/>
-  <img src="assets/photo2.png" width="300"/>
-</p>
-
